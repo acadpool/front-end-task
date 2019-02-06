@@ -1,0 +1,16 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+
+.navbar-brand{
+    font-size: 2.2em;  
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+
+  .dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+      pointer-events: none;
+  }
