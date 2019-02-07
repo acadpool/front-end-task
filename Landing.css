@@ -122,3 +122,15 @@ body{
     -webkit-transition-delay:.2s;
     transition-delay:.2s;
     }
+
+    .mail{
+        padding: 30px 60px 30px 60px;
+        text-align: center;
+        font-size: 20px;
+        background-color: #F4F4F4;
+    }
+
+    .mr{
+        margin-top:30px;
+        margin-bottom:30px;
+    }
