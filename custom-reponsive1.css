@@ -1,0 +1,27 @@
+.button{
+    background-color:oldlace;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.btnsave{
+    border-radius: 50%;
+}
+span,input{
+    margin: 5px;
+}
+ 
+.container{
+    position: relative;
+    bottom: 20px;
+    right:20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
