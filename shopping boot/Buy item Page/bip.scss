@@ -1,0 +1,26 @@
+body{
+    padding-top: 150px;
+}
+#itemid{
+    font-size: 15px;
+}
+#bag{
+    text-align: right;
+}
+#list{
+    text-align: left;
+}
+.list-group{
+    float: left;
+}
+.nav-item{
+    a{
+        margin-left: 15px;
+    }
+    a:hover{
+        border-bottom: 2px solid greenyellow;
+    }
+}
+#foot{
+    padding-left: 90px;
+}

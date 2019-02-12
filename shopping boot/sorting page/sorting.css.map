@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAA;EACF,WAAW,EAAE,KAAK;CACrB;;AACD,AAAA,KAAK,CAAA;EACH,UAAU,EAAE,OAAO;CACpB",
+    "sources": [
+        "sorting.scss"
+    ],
+    "names": [],
+    "file": "sorting.css"
+}
