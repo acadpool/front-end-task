@@ -1,0 +1,26 @@
+body {
+  padding-top: 120px;
+}
+
+#hotdeal {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#bif {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.list-group {
+  float: left;
+}
+
+.nav-item a {
+  margin-left: 15px;
+}
+
+.nav-item a:hover {
+  border-bottom: 2px solid greenyellow;
+}
+/*# sourceMappingURL=sww.css.map */
